@@ -1,4 +1,4 @@
-## Hi there, i'm Lucas Silva 👋
+## Hi there, I'm Lucas Silva 👋
 
 **Software Engineer | Fullstack Developer | Product Builder**
 
@@ -18,6 +18,32 @@ I’m driven by creativity and experimentation — I’m always testing new idea
 - **Administrative Assistant at Cyrela** (Jan 2024 - Nov 2024)  
 - **Intern at Cyrela** (Jul 2023 - Jan 2024)  
 - **Intern at Mobits** (Sep 2022 - Jul 2023)  
+
+---
+
+## 🎓 Education
+
+- **Computer Science — Federal University of Rio de Janeiro (UFRJ)**
+
+---
+
+## 🚀 Some of My Projects
+
+- **IPTU Automation System (Cyrela)**  
+  Developed and optimized an automated system for IPTU data processing.  
+  Reduced execution time from **8 hours to ~20 minutes** using multithreading and performance optimization.  
+  *Tech: Python*
+
+- **Automated App Deployment System (Mobits)**  
+  Built a Python-based automation system for publishing mobile applications to the Google Play Store.  
+  Enabled deployment of **50+ app versions in minutes**, significantly improving release efficiency.  
+  *Tech: Python*
+
+- **Personal Finance & Insights Platform (Snack Finance)** *(Private Repository)*  
+  Designed and developed a personal finance platform focused on expense tracking, categorization, and actionable insights.  
+  Built data processing pipelines to analyze spending behavior and generate smart recommendations.  
+  Developed with a strong product mindset, focusing on usability and real-world application.  
+  *Tech: React, JavaScript, Python, SQL*
 
 ---
 
