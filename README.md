@@ -13,7 +13,7 @@ I’m driven by creativity and experimentation — I’m always testing new idea
 
 ## 🧑‍💻 Experiences
 
-- **Business Intelligence Jr Analyst at Cyrela** (Nov 2025 - Present)  
+- **Business Intelligence Pl Analyst at Cyrela** (Nov 2025 - Present)  
 - **Business Intelligence Jr Analyst at Cyrela** (Nov 2024 - Nov 2025)  
 - **Administrative Assistant at Cyrela** (Jan 2024 - Nov 2024)  
 - **Intern at Cyrela** (Jul 2023 - Jan 2024)  
